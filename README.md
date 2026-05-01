@@ -10,6 +10,14 @@
 ---
 
 ## ✨ Features
+## 🚀 Why this project?
+
+This project demonstrates how to build a **smart desktop AI assistant** using Python, combining:
+- Offline intelligence (no API required)
+- Online AI integration (Groq / OpenAI / Gemini)
+- Real-world features like memory, voice, and UI design
+
+It is designed to be **practical, extensible, and resume-ready**.
 
 - 🎭 **Multiple Personalities**
   - Funny 😄
@@ -57,6 +65,15 @@
 
 ### 🎭 Personality Mode with Offline feature
 ![Personality](assets/personality.png)
+
+## ⚙️ How to Run
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Smart-AI-Chatbot.git
+cd Smart-AI-Chatbot
+pip install -r requirements.txt
+python main.py
+
 
 
 
