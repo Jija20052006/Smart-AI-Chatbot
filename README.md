@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## SMART AI CHATBOT PRO (Jarvis Style)
 
 SMART AI CHATBOT PRO is a **resume-ready Python desktop assistant** with:
@@ -109,3 +110,7 @@ If keys are missing or a request fails, the app **automatically falls back** to 
 - Do **not** commit `.venv/` or local DB/history files.
 - Add your screenshots and a short demo GIF for a strong portfolio README.
 
+=======
+# Smart-AI-Chatbot
+AI chatbot with multiple personalities (Funny, Motivator, Angry, Professional) and GUI
+>>>>>>> fe76314d6d542f3c7fa86a2f346ebbfd4ded42eb
