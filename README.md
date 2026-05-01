@@ -50,13 +50,14 @@
 
 ## 📸 Screenshots
 ### 🏠 Home Screen
-<img width="1380" height="941" alt="Screenshot 2026-05-01 182337" src="https://github.com/user-attachments/assets/8a2a9b3b-468d-4d1d-b40a-a8b2847c3974" />
+![Home](assets/home.png)
 
 ### 💬 Chat Example
-<img width="1381" height="941" alt="Screenshot 2026-05-01 182357" src="https://github.com/user-attachments/assets/ece45d98-def5-4eaa-9503-95b96e8dc279" />
+![Chat](assets/chat.png)
 
 ### 🎭 Personality Mode with Offline feature
-<img width="1372" height="980" alt="image" src="https://github.com/user-attachments/assets/847745e2-dbe2-4619-a819-a3bd9b755ab0" />
+![Personality](assets/personality.png)
+
 
 
 
